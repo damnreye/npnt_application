@@ -1,0 +1,27 @@
+{
+    "PermissionArtefact": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "FlightLog": [
+        {
+            "TimeStamp": 41,
+            "Longitude": 380.012,
+            "Latitude": 443.500,
+            "Altitude": 704,
+            "CRC": 719
+        },
+        {
+            "TimeStamp": 505,
+            "Longitude": 11.1120,
+            "Latitude": 701.11230,
+            "Altitude": 7,
+            "CRC": 637
+        },
+        {
+            "TimeStamp": 81,
+            "Longitude": 116.5,
+            "Latitude": 996.0,
+            "Altitude": 560,
+            "CRC": 147
+        }
+    ],
+    "Signature": "v6o59/wtRurC+CYadn1iemufF3G4lHq+eK0+gKaEszxe9LmCCVIplz7NV0ihKPUqjlNdqh25PP9lp4xbd3h2l7d0m8Xi9+/lUnZp3yzC7lsIcCw+wVF59heL1kE5FPAS77ury2z8+0iychw0YrhcrdQY+hbv/5BbGnw1fKo+QSlQKa/eRpbQh9MF7WG7YgfxmKkG8UArI3k+KdOyYk/yRpiRiB8HlVEu09VZ3X4AyNaifF0q6wfLagdXYTpoSK5hle9a4lwr0/qGhpTAKyf8TKPsA8YKggfbwT2uYxN74/w8KEVtBk1ZI+2klkR31KFQK+C/nfCAhEORNi0f9c1Xow=="
+}
